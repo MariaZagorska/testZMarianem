@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("kondzio-1");
+        System.out.println("kondzio-i ja!");
     }
 }
